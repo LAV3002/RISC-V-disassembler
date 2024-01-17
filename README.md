@@ -1,2 +1,1 @@
-#Decoder
-Simple RISC-V disassembler
+# Simple RISC-V disassembler
