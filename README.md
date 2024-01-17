@@ -1,1 +1,2 @@
-Simple python3 ELD RISC-V decoder
+Decoder
+Simple RISC-V disassembler
